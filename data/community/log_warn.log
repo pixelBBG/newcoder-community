@@ -1,0 +1,10 @@
+2022-04-06 22:50:10,028 WARN [main] o.m.s.m.ClassPathMapperScanner [ClassPathMapperScanner.java:166] No MyBatis mapper was found in '[com.newcoder.community.dao.UserMapper]' package. Please check your configuration.
+2022-04-06 22:50:23,747 WARN [main] o.m.s.m.ClassPathMapperScanner [ClassPathMapperScanner.java:166] No MyBatis mapper was found in '[com.newcoder.community.dao.UserMapper]' package. Please check your configuration.
+2022-04-06 22:50:37,680 WARN [main] o.m.s.m.ClassPathMapperScanner [ClassPathMapperScanner.java:166] No MyBatis mapper was found in '[com.newcoder.community.dao.UserMapper]' package. Please check your configuration.
+2022-04-06 22:51:52,325 WARN [main] o.m.s.m.ClassPathMapperScanner [ClassPathMapperScanner.java:166] No MyBatis mapper was found in '[com.newcoder.community.dao.UserMapper]' package. Please check your configuration.
+2022-04-06 22:52:20,555 WARN [main] o.m.s.m.ClassPathMapperScanner [ClassPathMapperScanner.java:166] No MyBatis mapper was found in '[com.newcoder.community.dao.UserMapper]' package. Please check your configuration.
+2022-04-06 22:53:07,264 WARN [main] o.m.s.m.ClassPathMapperScanner [ClassPathMapperScanner.java:166] No MyBatis mapper was found in '[com.newcoder.community.dao.UserMapper]' package. Please check your configuration.
+2022-04-06 22:54:17,825 WARN [main] o.m.s.m.ClassPathMapperScanner [ClassPathMapperScanner.java:166] No MyBatis mapper was found in '[com.newcoder.community.dao.UserMapper]' package. Please check your configuration.
+2022-04-06 22:56:30,132 WARN [main] o.m.s.m.ClassPathMapperScanner [ClassPathMapperScanner.java:166] No MyBatis mapper was found in '[com.newcoder.community.dao.UserMapper]' package. Please check your configuration.
+2022-04-06 22:56:37,812 WARN [main] o.m.s.m.ClassPathMapperScanner [ClassPathMapperScanner.java:166] No MyBatis mapper was found in '[com.newcoder.community.dao.UserMapper]' package. Please check your configuration.
+2022-04-06 22:56:55,085 WARN [main] o.m.s.m.ClassPathMapperScanner [ClassPathMapperScanner.java:166] No MyBatis mapper was found in '[com.newcoder.community.dao.UserMapper]' package. Please check your configuration.
